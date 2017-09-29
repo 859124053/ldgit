@@ -10,8 +10,6 @@ public void upload(String url,Map<String,String> map){
 	
 }
 public static void main(String[] args) {
-System.out.println("TestConnection.main()");
-System.out.println("TestConnection.main()2222");
-System.out.println("TestConnection.main()33333");
+
 }
 }
