@@ -12,7 +12,9 @@ public class TestConnection {
 		}
 	
 public void upload(String url,Map<String,String> map){
-	  System.out.println("ldwswwwsws");
+	  System.out.println("ldws");
+	  
+	  
 	  System.out.println("TestConnection.upload()");
 }
 
