@@ -10,7 +10,8 @@ public void upload(String url,Map<String,String> map){
 	
 }
 public static void main(String[] args) {
-System.out.println("Testtestetd.main()");
+System.out.println("Testtestesqwsqwtd.main()");
+System.out.println("main()");
 
 }
 }
