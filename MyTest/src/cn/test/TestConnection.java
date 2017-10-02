@@ -8,11 +8,7 @@ import net.sf.json.JSONObject;
 public class TestConnection {
 	
 	public static void main(String[] args) {
-		System.out.println("Testtestetd.main()");
-     System.out.println("TestConnection.main()");
-     System.out.println("TestConnection.main()");
-     System.out.println("Testtestesqwsqwtd.main()");
-     System.out.println("main()");
+
 		}
 	
 public void upload(String url,Map<String,String> map){
