@@ -12,10 +12,5 @@ public void upload(String url,Map<String,String> map){
 public static void main(String[] args) {
 System.out.println("TestConnection.main()");
 
-
-
-
-
-
 }
 }
