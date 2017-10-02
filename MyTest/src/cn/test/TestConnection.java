@@ -15,6 +15,8 @@ public void upload(String url,Map<String,String> map){
 	  System.out.println("ldws");
 	  
 	  
+	  
+	  
 	  System.out.println("TestConnection.upload()");
 }
 
